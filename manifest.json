@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Youtube Playlist Time",
+  "version": "1.0",
+  "description": "Show youtube playlists total time.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["src/content.ts"],
+      "run_at": "document_idle"
+    }
+  ]
+}
