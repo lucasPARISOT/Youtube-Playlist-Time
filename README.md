@@ -84,10 +84,11 @@ The extension can also be loaded locally using the browser's extension/developer
 ### For developpers
 
 1. Download source files
-2. use commande "npm run build"
-3. A "dist" folder is created automaticaly
-4. "assets" folder, manifest.json and popup.html may be compressed inside a zip
-5. The zip is the usable extension
+2. use command "npm i"
+3. use command "npm run build"
+4. A "dist" folder is created automaticaly
+5. "assets" folder, manifest.json and popup.html may be compressed inside a zip
+6. The zip is the usable extension
 
 ## Limitations
 
