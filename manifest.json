@@ -15,5 +15,13 @@
       "js": ["src/content.ts"],
       "run_at": "document_idle"
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{34fed27b-62b8-43f4-a126-6110b2d128eb}",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
 }
