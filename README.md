@@ -69,17 +69,14 @@ This makes the displayed value accurate for the content currently available in t
 
 ## Installation
 
-### Chrome
-
-Install the extension from the Chrome Web Store.
-
 ### Firefox
 
-Install the extension from Mozilla Add-ons.
+Install the extension from [Mozilla Add-ons](https://addons.mozilla.org/fr/firefox/addon/youtube-playlist-time/)
 
-### Manual Installation
+### Chrome
 
-The extension can also be loaded locally using the browser's extension/developer tools.
+I did not pay required $5 to publish on Chrome Web Store.
+You can install manually by following "For developpers" instructions and then load extension locally on your browser.
 
 ### For developpers
 
@@ -105,6 +102,6 @@ No playlist data needs to be sent to an external server.
 
 ## License
 
-Free to use for personnal use
+Free to use for personnal use, MIT Licence
 
 ### Made by Lucas PARISOT
